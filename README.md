@@ -1,4 +1,4 @@
-# Aerove_Training_freshie2020
+# Autonomous Surgical Reckon Mission
 <h1>Library used</h1>
 <h3>TensorFlow (v2.1.0)</h3>
 <h3>OpenCV (v3.2.0.8)</h3>
